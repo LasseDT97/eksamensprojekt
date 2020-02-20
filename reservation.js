@@ -7,3 +7,5 @@ class Reservation {
         this.reservationID = reservationID;
     }
 }
+
+// Hej 
