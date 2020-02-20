@@ -8,4 +8,4 @@ class Reservation {
     }
 }
 
-/ hej
+// hej 
