@@ -15,3 +15,11 @@ console.log(req.url
 })
 
 server.listen(3000)
+
+const mongoose = require('mongoose')
+mongoose.connect('mongodb://localhost/my_database',{useNewUrlParser:true}
+const Schema = mongoose.Schema;
+const BlogPostSchema = new Schema({
+    title: String,
+    body: String
+});
