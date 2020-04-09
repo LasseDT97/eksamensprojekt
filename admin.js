@@ -5,5 +5,3 @@ class Admin extends User {
         super(password);
     }
 }
-
-
