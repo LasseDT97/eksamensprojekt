@@ -5,3 +5,5 @@ class Admin extends User {
         super(password);
     }
 }
+
+//Anton er en spasser
