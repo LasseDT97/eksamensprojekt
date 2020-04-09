@@ -7,3 +7,6 @@ class Admin extends User {
 }
 
 //Anton er en spasser
+
+
+//Lasse er en endnu større spasser

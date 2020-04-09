@@ -8,3 +8,6 @@ MongoClient.connect(url, function ((err, db)
     console.log("Database created!");
     db.close();
 });
+
+
+//Første push
