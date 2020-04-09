@@ -1,4 +1,4 @@
-const Customer = require('../models/User.js');
+const Customer = require('../../models/User.js');
 const path = require('path');
 
 //storeCustomer håndterer user registrations i vores requesthandler i index.js (storeUserController)
